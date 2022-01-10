@@ -2,12 +2,13 @@
 
 Quick guide to setup your payment experience with [Primer](https://primer.io/) and start a local webshop app for displaying Primer Universal Checkout.
 
+Following Primer [Universal Checkout](https://primer.io/docs/universal-checkout/web) for web and Primer [Payments](https://primer.io/docs/payments) documentations have been used for the integration, see `./public/js/client.js` and `./routes/primer.js`
+
 Requirements :
 - Nodejs
 - npm
 - Express
 - Webpack
-
 
 
 ## Get started
