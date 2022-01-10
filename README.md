@@ -58,6 +58,8 @@ npm start
 4000 0000 0000 1091 : card with 3DS authentication
 ```
 
+More testing scenario are available [here](https://primer.io/docs/testing)
+
 ## Define your workflows
     
 - Now you have done your first successful test transactions you can play with Connections and Workflows components to define your payments processing strategy.
@@ -77,7 +79,7 @@ npm start
 
 ## Going further into the customization
 
-- You can change the`client.js` file to add your own script for Universal Checkout component, just make sure to run the following to generate an updated  `builder.js` with webpack and restart the app
+- You can change the `client.js` file to add your own script for Universal Checkout component, just make sure to run the following to generate an updated  `builder.js` with webpack and restart the app
  
 ```bash
 npx webpack && npm start
