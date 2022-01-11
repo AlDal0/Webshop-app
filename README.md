@@ -28,8 +28,8 @@ Now you are ready to start installation
 - Clone the repo and go to the created directory
 
 ```bash
-git clone https://github.com/AlDal0/Primer-app.git
-cd ./Primer-app
+git clone https://github.com/AlDal0/Webshop-app.git
+cd ./Webshop-app
 ```
 
 - Install the project dependencies with npm
