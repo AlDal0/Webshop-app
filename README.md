@@ -29,7 +29,7 @@ Now you are ready to start installation
 
 ```bash
 git clone https://github.com/AlDal0/Primer-app.git
-cd ./Primer
+cd ./Primer-app
 ```
 
 - Install the project dependencies with npm
